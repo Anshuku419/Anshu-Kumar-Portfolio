@@ -1,7 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Download, FileText, Award, Briefcase, GraduationCap } from 'lucide-react';
-import { title } from 'framer-motion/client';
 
 const Resume = () => {
   const resumeData = {
